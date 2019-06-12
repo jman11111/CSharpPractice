@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jack/Code/CSharpPractice/CSharpPractice.csproj": {}
+  },
+  "projects": {
+    "/home/jack/Code/CSharpPractice/CSharpPractice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jack/Code/CSharpPractice/CSharpPractice.csproj",
+        "projectName": "CSharpPractice",
+        "projectPath": "/home/jack/Code/CSharpPractice/CSharpPractice.csproj",
+        "packagesPath": "/home/jack/.nuget/packages/",
+        "outputPath": "/home/jack/Code/CSharpPractice/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/jack/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/home/jack/Code/CSharpPractice/bin/Debug/netcoreapp2.2/CSharpPractice.deps.json
+/home/jack/Code/CSharpPractice/bin/Debug/netcoreapp2.2/CSharpPractice.runtimeconfig.json
+/home/jack/Code/CSharpPractice/bin/Debug/netcoreapp2.2/CSharpPractice.runtimeconfig.dev.json
+/home/jack/Code/CSharpPractice/bin/Debug/netcoreapp2.2/CSharpPractice.dll
+/home/jack/Code/CSharpPractice/bin/Debug/netcoreapp2.2/CSharpPractice.pdb
+/home/jack/Code/CSharpPractice/obj/Debug/netcoreapp2.2/CSharpPractice.csprojAssemblyReference.cache
+/home/jack/Code/CSharpPractice/obj/Debug/netcoreapp2.2/CSharpPractice.csproj.CoreCompileInputs.cache
+/home/jack/Code/CSharpPractice/obj/Debug/netcoreapp2.2/CSharpPractice.AssemblyInfoInputs.cache
+/home/jack/Code/CSharpPractice/obj/Debug/netcoreapp2.2/CSharpPractice.AssemblyInfo.cs
+/home/jack/Code/CSharpPractice/obj/Debug/netcoreapp2.2/CSharpPractice.dll
+/home/jack/Code/CSharpPractice/obj/Debug/netcoreapp2.2/CSharpPractice.pdb
